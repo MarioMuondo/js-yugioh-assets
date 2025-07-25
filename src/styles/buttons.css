@@ -35,7 +35,7 @@
 /* button hover */
 .rpgui-button.hover,
 .rpgui-button:hover {
-  background-image: url("../assets/rpg/button-hover.png");
+  background-image: url("./src/assets/rpg/button-hover.png");
 }
 
 /* button clicked */
